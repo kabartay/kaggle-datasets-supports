@@ -7,13 +7,13 @@ Some supporting materials for the datasets I uploaded to Kaggle.
 * [data](https://www.kaggle.com/muhakabartay/production-cross-sections-of-inert-doublet-model) **Production cross sections of Inert Doublet Model**: Phenomenological AI training data
 
 
-* [data](https://www.kaggle.com/muhakabartay/world-population-19602018): **World Population 1960-2018**: Population for each country since 1960
+* [data](https://www.kaggle.com/muhakabartay/world-population-19602018) **World Population 1960-2018**: Population for each country since 1960
 * [data](https://www.kaggle.com/muhakabartay/wdi-life-expectancy-at-birth) **WDI Life expectancy at birth 1960-2018**: Prediction of the life expectancy
 
 
 * [data](https://www.kaggle.com/muhakabartay/covid19-cases-and-deaths-by-raceethnicity) **COVID-19 Cases and Deaths by Race/Ethnicity**: COVID-19 cases and associated deaths by race and ethnicity.
 * [data](https://www.kaggle.com/muhakabartay/novel-coronavirus-2019ncov) **COVID-19. Novel coronavirus dataset Jan-Feb 2020**: Time series of confirmed cases
-* [data](https://www.kaggle.com/muhakabartay/covid19-conditions-contributing-to-deaths-us): **COVID-19. Conditions contributing to deaths (US)**: Health conditions and contributing causes in conjunction with deaths.
+* [data](https://www.kaggle.com/muhakabartay/covid19-conditions-contributing-to-deaths-us) **COVID-19. Conditions contributing to deaths (US)**: Health conditions and contributing causes in conjunction with deaths.
 * [data](https://www.kaggle.com/muhakabartay/pfizer-covid19-vaccine-distribution-allocations) **Pfizer COVID-19 Vaccine Distribution Allocations**: Weekly allocations of doses made available for states to order against.
 * [data](https://www.kaggle.com/muhakabartay/new-york-state-statewide-covid19-testing) **New York State Statewide COVID-19 Testing**: Tests for COVID-19 infection performed in NY State since the beginning.
 * [data](https://www.kaggle.com/muhakabartay/excess-deaths-associated-with-covid19) **Excess Deaths Associated with COVID-19**: Estimates of excess deaths beyond the number of deaths.
