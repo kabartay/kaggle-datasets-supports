@@ -11,7 +11,7 @@ Some supporting materials for the datasets I uploaded to Kaggle.
 * [data](https://www.kaggle.com/muhakabartay/wdi-life-expectancy-at-birth) **WDI Life expectancy at birth 1960-2018**: Prediction of the life expectancy
 
 
-* [data](https://www.kaggle.com/muhakabartay/covid19-cases-and-deaths-by-raceethnicity) **COVID-19 Cases and Deaths by Race/Ethnicity**: COVID-19 cases and associated deaths by race and ethnicity.
+* [data](https://www.kaggle.com/muhakabartay/covid19-cases-and-deaths-by-raceethnicity) **COVID-19 Cases and Deaths by Race/Ethnicity**: COVID-19 cases and associated deaths by race/ethnicity.
 * [data](https://www.kaggle.com/muhakabartay/novel-coronavirus-2019ncov) **COVID-19. Novel coronavirus dataset Jan-Feb 2020**: Time series of confirmed cases
 * [data](https://www.kaggle.com/muhakabartay/covid19-conditions-contributing-to-deaths-us) **COVID-19. Conditions contributing to deaths (US)**: Health conditions and contributing causes in conjunction with deaths.
 * [data](https://www.kaggle.com/muhakabartay/pfizer-covid19-vaccine-distribution-allocations) **Pfizer COVID-19 Vaccine Distribution Allocations**: Weekly allocations of doses made available for states to order against.
